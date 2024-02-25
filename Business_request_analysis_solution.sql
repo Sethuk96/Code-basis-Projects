@@ -154,50 +154,8 @@ from
     report_2 order by IR desc limit 5;
     
     
-    
+
+
     
    
-WITH report_1 AS (
-    SELECT 
-        fe.campaign_id,
-        dp.product_code,
-        dp.product_name,
-        dp.category,
-        SUM((fe.base_price * fe.quantity_sold_before_promo)) AS Total_revenue_bp,
-        SUM((fe.promo_price * fe.quantity_sold_after_promo)) AS Total_revenue_ap
-    FROM 
-        fact_events fe
-    INNER JOIN 
-        dim_products dp ON fe.product_code = dp.product_code 
-    GROUP BY  
-        fe.campaign_id,
-        product_code,
-        dp.product_name,
-        dp.category
-),
-report_2 AS (
-    SELECT 
-        campaign_id,
-        product_code,
-        product_name,
-        category,
-        ((Total_revenue_ap - Total_revenue_bp) / Total_revenue_bp) * 100 AS IR 
-    FROM 
-        report_1
-    GROUP BY 
-        campaign_id,
-        product_code,
-        product_name,
-        category,
-        Total_revenue_ap,
-        Total_revenue_bp
-)
-SELECT 
-    product_name,
-    category,
-    CONCAT(FORMAT(IR, 2), '%') AS IR_percentage
-FROM 
-    report_2 
-ORDER BY 
-    IR DESC 
-LIMIT 5;
+
