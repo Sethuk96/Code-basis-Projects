@@ -148,7 +148,7 @@ report_2 as (
         product_name
 )
 select 
-    product_name,category,
+    product_name,
 CONCAT(FORMAT(IR, 2), '%') AS IR_percentage
 from 
     report_2 order by IR desc limit 5;
