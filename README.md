@@ -24,56 +24,58 @@
    - Include essential information such as product name, category, and IR%.
    - This analysis will help identify the most successful products in terms of incremental revenue across campaigns, aiding in product optimization.
 
-## Area of Focus :
-**Comparative Analysis of Promotional Strategies for Atliq Mart**
-Discount Impact:
-Both festivals experienced a decrease in incremental revenue and sold units for both 25% and 50% discount offers compared to baseline sales.
+
+
+## Area of Focus: Comparative Analysis of Promotional Strategies for Atliq Mart
+
+**Discount Impact:**
+- Both festivals experienced a decrease in incremental revenue and sold units for both 25% and 50% discount offers compared to baseline sales.
+
 **25% Off:**
-Decreased revenue: 34% (Diwali), 39% (Sankranti)
-Decreased sold units: 12% (Diwali), 18% (Sankranti)
+- Decreased revenue: 34% (Diwali), 39% (Sankranti)
+- Decreased sold units: 12% (Diwali), 18% (Sankranti)
+
 **50% Off:**
-Decreased revenue: 34.34% (Diwali), 31% (Sankranti)
-Increased sold units: 31% (Diwali), 39% (Sankranti)
+- Decreased revenue: 34.34% (Diwali), 31% (Sankranti)
+- Increased sold units: 31% (Diwali), 39% (Sankranti)
+
 **Revenue Generation:**
-25% Off: Generated ₹5.4 million (Diwali), ₹5,70,717 Lakhs (Sankranti)
-50% Off: Generated ₹1 million (Diwali), ₹3,63,564 Lakhs (Sankranti)
+- 25% Off: Generated ₹5.4 million (Diwali), ₹5,70,717 Lakhs (Sankranti)
+- 50% Off: Generated ₹1 million (Diwali), ₹3,63,564 Lakhs (Sankranti)
+
 **Key Observations:**
-While the 50% discount saw a greater increase in sold units compared to the 25% offer during both festivals, its revenue decrease was similar.
-The 25% offer generated higher overall revenue compared to the 50% offer in both festivals.
+- While the 50% discount saw a greater increase in sold units compared to the 25% offer during both festivals, its revenue decrease was similar.
+- The 25% offer generated higher overall revenue compared to the 50% offer in both festivals.
 
-## Product recommendation in Diwali sales
-25% discount outperformed 50% discount: Across most categories, the 25% discount generated more revenue than the 50% discount despite potentially lower sales volume.
+## Product Recommendation in Diwali Sales
+- 25% discount outperformed 50% discount: Across most categories, the 25% discount generated more revenue than the 50% discount despite potentially lower sales volume.
+  
 **Personal Care:**
-Products under 50% discount saw a significant decrease in revenue despite an increase in sold units, indicating potential price sensitivity or over-discounting.
-Consider re-evaluating pricing strategy and promotion type for specific products like Atliq Lime Cool Bathing Bar, Atliq Doodh Kesar Body Lotion, Atliq Body Milk Nourishing Lotion, and  Atliq Cream Beauty Bathing Soap.
-Consider implementing targeted promotions for specific products within the category, rather than applying a blanket 50% discount across all items.
+- Products under 50% discount saw a significant decrease in revenue despite an increase in sold units, indicating potential price sensitivity or over-discounting.
+- Consider re-evaluating pricing strategy and promotion type for specific products like Atliq Lime Cool Bathing Bar, Atliq Doodh Kesar Body Lotion, Atliq Body Milk Nourishing Lotion, and Atliq Cream Beauty Bathing Soap.
+- Consider implementing targeted promotions for specific products within the category, rather than applying a blanket 50% discount across all items.
+
 **Grocery and Staples:**
-Atliq Sonamasuri Rice (25% off):
-Achieved a significant increase in sold units with a minor revenue decrease.
-Consider continuing with this discount strategy.
-Atliq Sunflower Oil (25% off):
-Saw a decrease in both revenue and sold units.
-Re-evaluate the 25% discount for this product. 
-**Home Care Products:**
-Atliq Scrub Sponge for dishwashing and Atliq Fusion Container Set 3 both experienced decreases in incremental revenue and sold units under the "25% Off" promotion Re-evaluate the pricing and promotional strategies for these products to address the decline in performance
+- Atliq Sonamasuri Rice (25% off): Achieved a significant increase in sold units with a minor revenue decrease. Consider continuing with this discount strategy.
+- Atliq Sunflower Oil (25% off): Saw a decrease in both revenue and sold units. Re-evaluate the 25% discount for this product.
 
-## Product recommendation for Sankranti Sales 
-25% discount outperformed 50% discount: Across most categories, the 25% discount generated more revenue than the 50% discount despite potentially lower sales volume.
+**Home Care Products:**
+- Atliq Scrub Sponge for dishwashing and Atliq Fusion Container Set 3 both experienced decreases in incremental revenue and sold units under the "25% Off" promotion. Re-evaluate the pricing and promotional strategies for these products to address the decline in performance.
+
+## Product Recommendation for Sankranti Sales
+- - Products under 50% discount saw a significant decrease in revenue despite an increase in sold units, indicating potential price sensitivity or over-discounting.
+
 **Personal Care:**
-Products under 25% discount saw a significant decrease in revenue and also decrease in sold units, indicating potential price sensitivity or over-discounting.
-Consider re-evaluating pricing strategy and promotion type for specific products like, Atliq Body Milk Nourishing Lotion, and  Atliq Cream Beauty Bathing Soap.
-Products like Atliq Lime Cool Bathing Bar, Atliq Doodh Kesar Body Lotion  under 33% saw a significant decrease in revenue despite of increase in sold units, indicating potential price sensitivity 
- **Grocery and Staples:**
--Atliq Sonamasuri Rice (33% off):
--Achieved a significant increase in sold units with a minor revenue decrease.
--Consider continuing with this discount strategy.
--Atliq Masoor dal (1kg) (33% off):
--Achieved a significant increase in sold units with a minor revenue decrease.
--Consider continuing with this discount strategy.
+- Products under 25% discount saw a significant decrease in revenue and also decrease in sold units, indicating potential price sensitivity or over-discounting.
+- Consider re-evaluating pricing strategy and promotion type for specific products like, Atliq Body Milk Nourishing Lotion, and Atliq Cream Beauty Bathing Soap.
+- Products like Atliq Lime Cool Bathing Bar, Atliq Doodh Kesar Body Lotion under 33% saw a significant decrease in revenue despite of increase in sold units, indicating potential price sensitivity.
+
+**Grocery and Staples:**
+- Atliq Sonamasuri Rice (33% off): Achieved a significant increase in sold units with a minor revenue decrease. Consider continuing with this discount strategy.
+- Atliq Masoor dal (1kg) (33% off): Achieved a significant increase in sold units with a minor revenue decrease. Consider continuing with this discount strategy.
+
 **Home Care Products:**
-Atliq Scrub Sponge for dishwashing and Atliq Fusion Container Set 3 both experienced decreases in incremental revenue and sold units under the "25% Off" promotion Re-evaluate the pricing and promotional strategies for these products to address the decline in performance
-
-
+- Atliq Scrub Sponge for dishwashing and Atliq Fusion Container Set 3 both experienced decreases in incremental revenue and sold units under the "25% Off" promotion. Re-evaluate the pricing and promotional strategies for these products to address the decline in performance.
 
 
 
